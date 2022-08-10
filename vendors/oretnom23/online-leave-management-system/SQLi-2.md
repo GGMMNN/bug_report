@@ -1,6 +1,6 @@
 # Online Leave Management System v1.0 by oretnom23 has SQL injection
 
-BUG_Author:
+BUG_Author: Zhang Huaiyu
 
 Login account: admin/admin123 (Super Admin account)
 
